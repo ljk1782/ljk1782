@@ -32,11 +32,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
 
 <br/>
-<br/>
-<br/>
 
 ![ljk1782's Most Used Language](https://github-readme-stats.vercel.app/api/top-langs/?username=ljk1782&exclude_repo=ljk1782.github.io&theme=swift&langs_count=10&layout=compact)
-  
+
+<br/>
+
 ![ljk1782's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ljk1782&show_icons=true&theme=swift)
 
 
