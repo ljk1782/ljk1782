@@ -4,7 +4,7 @@
 ## 👋 Hi there. My name is JunKyeong.
 반갑습니다.<br>
 제 이름은 **이준경** 이고 프론트와 함께 백엔드를 위주로 공부하고 있습니다.<br>
-머리쓰는걸 좋아하고 뭐든 찾아보기 노력합니다.
+머리쓰는걸 좋아하고 뭐든 찾아보려 노력합니다.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fljk1782&count_bg=%234AC1FF&title_bg=%23555555&icon_color=%23FFFFFF&title=✧₊⁺%20Profile+Views&edge_flat=true)](https://hits.seeyoufarm.com)
 
