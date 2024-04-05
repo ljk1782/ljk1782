@@ -1,6 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&reversal=false&section=header" alt="header" width="100%"/>
-
-
 ## 👋 Hi there. My name is JunKyeong.
 반갑습니다.<br>
 제 이름은 **이준경** 이고 프론트와 함께 백엔드를 위주로 공부하고 있습니다.<br>
@@ -41,7 +38,7 @@
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&reversal=true&section=footer" alt="footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=24&reversal=false&section=footer" alt="footer" width="100%"/>
 <!--
     [Hits](https://hits.seeyoufarm.com/)
     [capsule-render](https://github.com/kyechan99/capsule-render)
