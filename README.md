@@ -28,7 +28,9 @@
 #### &nbsp;💡 도구 및 라이브러리
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
-![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square) <br>
+![Notion](https://img.shields.io/badge/Notion-000000?logo=Notion&logoColor=white&style=flat-square)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=Figma&logoColor=white&style=flat-square)
 
 <br/>
 
