@@ -7,26 +7,28 @@
 
 ## 🗂️ 기술 스택
 
+#### &nbsp;💫 백엔드
+![java](https://img.shields.io/badge/Java-F89820?logo=Java&logoColor=white&style=flat-square)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=SpringBoot&logoColor=white&style=flat-square)
+![SpringDataJPA](https://img.shields.io/badge/SpringDataJPA-6DB33F?logo=Spring&logoColor=white&style=flat-square) <br>
+![MyBatis](https://img.shields.io/badge/MyBatis-D40000?logoColor=white&style=flat-square)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?logo=Thymeleaf&logoColor=white&style=flat-square)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
+
 #### &nbsp;🛰 프론트엔드
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=white&style=flat-square)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=white&style=flat-square)
-![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=323330&style=flat-square)
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=323330&style=flat-square) <br>
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=flat-square)
-
-#### &nbsp;💫 백엔드
-![java](https://img.shields.io/badge/Java-E11922?logo=Java&logoColor=white&style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=flat-square)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jQuery&logoColor=white&style=flat-square)
 
 #### &nbsp;💾 데이터베이스
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white&style=flat-square)
 
-#### &nbsp;🏗️ 프레임워크
-![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=Spring&logoColor=white&style=flat-square)
-![MyBatis](https://img.shields.io/badge/MyBatis-D40000?logoColor=white&style=flat-square)
-
-#### &nbsp;💡 개발 및 배포
+#### &nbsp;💡 도구 및 라이브러리
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=Docker&logoColor=white&style=flat-square)
+![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=flat-square)
 
 <br/>
 
